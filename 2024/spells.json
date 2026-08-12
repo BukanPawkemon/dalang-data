@@ -5922,7 +5922,7 @@
     "index": "greater-invisibility",
     "name": "Greater Invisibility",
     "desc": [
-      ""
+      "A creature you touch has the Invisible condition until the spell ends."
     ],
     "higher_level": [],
     "range": "Touch",
