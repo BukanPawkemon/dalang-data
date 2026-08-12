@@ -3,6 +3,11 @@
   "source": "System Reference Document 5.1, Wizards of the Coast",
   "sourceLicense": "CC-BY-4.0 (also available under OGL 1.0a)",
   "compiledFrom": "Cross-checked against 5e-bits/5e-database and open5e, both MIT-licensed for their own data structuring, resolved against the official SRD text where the two disagreed.",
-  "categories": ["conditions", "weapon-properties", "monsters", "spells"],
-  "lastUpdated": "2026-08-12"
+  "categories": [
+    "conditions", "weapon-properties", "monsters", "spells",
+    "ability-scores", "skills", "magic-schools", "damage-types", "languages",
+    "rules", "rule-sections", "equipment", "magic-items"
+  ],
+  "verificationNote": "Conditions, Weapon Properties, Monsters, and Spells were individually cross-checked entry by entry against a second source (open5e), see BACKLOG #183 for the full pilot results. Equipment was individually cross-checked too, 6 flagged items, all resolved (5 already correct as vendored, 1 a unit-basis convention difference, not an error). Ability Scores, Skills, Magic Schools, Damage Types, Languages, Rules, and Rule Sections were migrated from the already-trusted, already-shipping vendored data with a lighter spot-check rather than a full pairwise diff against a second source, this is basic reference content (ability abbreviations, skill-to-ability pairings, damage type names) with a low realistic error rate, not complex multi-field stat blocks. Magic Items was migrated as-is too, the pilot found the earlier apparent disagreements were a comparison-methodology artifact, not real data errors, once matched correctly (5e-bits already flattens item variants into real separate entries, same as open5e does).",
+  "lastUpdated": "2026-08-13"
 }
