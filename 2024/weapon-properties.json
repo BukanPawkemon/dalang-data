@@ -1,0 +1,138 @@
+[
+  {
+    "index": "ammunition",
+    "name": "Ammunition",
+    "desc": [
+      "You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight, the rest is lost."
+    ],
+    "url": "dalang/2024/weapon-properties/ammunition"
+  },
+  {
+    "index": "cleave",
+    "name": "Cleave",
+    "desc": [
+      "If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn."
+    ],
+    "url": "dalang/2024/weapon-properties/cleave"
+  },
+  {
+    "index": "finesse",
+    "name": "Finesse",
+    "desc": [
+      "When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
+    ],
+    "url": "dalang/2024/weapon-properties/finesse"
+  },
+  {
+    "index": "graze",
+    "name": "Graze",
+    "desc": [
+      "If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier."
+    ],
+    "url": "dalang/2024/weapon-properties/graze"
+  },
+  {
+    "index": "heavy",
+    "name": "Heavy",
+    "desc": [
+      "You have disadvantage on attack rolls with a Heavy weapon if it's a melee weapon and your Strength score isn't at least 13, or if it's a ranged weapon and your Dexterity score isn't at least 13."
+    ],
+    "url": "dalang/2024/weapon-properties/heavy"
+  },
+  {
+    "index": "light",
+    "name": "Light",
+    "desc": [
+      "When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a bonus action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative."
+    ],
+    "url": "dalang/2024/weapon-properties/light"
+  },
+  {
+    "index": "loading",
+    "name": "Loading",
+    "desc": [
+      "You can fire only one piece of ammunition from a Loading weapon when you use an action, a bonus action, or a reaction to fire it, regardless of the number of attacks you can normally make."
+    ],
+    "url": "dalang/2024/weapon-properties/loading"
+  },
+  {
+    "index": "nick",
+    "name": "Nick",
+    "desc": [
+      "When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a bonus action. You can make this extra attack only once per turn."
+    ],
+    "url": "dalang/2024/weapon-properties/nick"
+  },
+  {
+    "index": "push",
+    "name": "Push",
+    "desc": [
+      "If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller."
+    ],
+    "url": "dalang/2024/weapon-properties/push"
+  },
+  {
+    "index": "reach",
+    "name": "Reach",
+    "desc": [
+      "A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it."
+    ],
+    "url": "dalang/2024/weapon-properties/reach"
+  },
+  {
+    "index": "sap",
+    "name": "Sap",
+    "desc": [
+      "If you hit a creature with this weapon, that creature has disadvantage on its next attack roll before the start of your next turn."
+    ],
+    "url": "dalang/2024/weapon-properties/sap"
+  },
+  {
+    "index": "slow",
+    "name": "Slow",
+    "desc": [
+      "If you hit a creature with this weapon and deal damage to it, you can reduce its speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the speed reduction doesn't exceed 10 feet."
+    ],
+    "url": "dalang/2024/weapon-properties/slow"
+  },
+  {
+    "index": "thrown",
+    "name": "Thrown",
+    "desc": [
+      "If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon."
+    ],
+    "url": "dalang/2024/weapon-properties/thrown"
+  },
+  {
+    "index": "topple",
+    "name": "Topple",
+    "desc": [
+      "If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your proficiency bonus). On a failed save, the creature has the prone condition."
+    ],
+    "url": "dalang/2024/weapon-properties/topple"
+  },
+  {
+    "index": "two-handed",
+    "name": "Two-Handed",
+    "desc": [
+      "A Two-Handed weapon requires two hands when you attack with it."
+    ],
+    "url": "dalang/2024/weapon-properties/two-handed"
+  },
+  {
+    "index": "versatile",
+    "name": "Versatile",
+    "desc": [
+      "A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack."
+    ],
+    "url": "dalang/2024/weapon-properties/versatile"
+  },
+  {
+    "index": "vex",
+    "name": "Vex",
+    "desc": [
+      "If you hit a creature with this weapon and deal damage to the creature, you have advantage on your next attack roll against that creature before the end of your next turn."
+    ],
+    "url": "dalang/2024/weapon-properties/vex"
+  }
+]

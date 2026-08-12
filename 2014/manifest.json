@@ -3,6 +3,6 @@
   "source": "System Reference Document 5.1, Wizards of the Coast",
   "sourceLicense": "CC-BY-4.0 (also available under OGL 1.0a)",
   "compiledFrom": "Cross-checked against 5e-bits/5e-database and open5e, both MIT-licensed for their own data structuring, resolved against the official SRD text where the two disagreed.",
-  "categories": ["conditions"],
+  "categories": ["conditions", "weapon-properties"],
   "lastUpdated": "2026-08-12"
 }
