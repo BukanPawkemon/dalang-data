@@ -18958,7 +18958,7 @@
     "actions": [
       {
         "name": "Bite",
-        "desc": "Melee Attack Roll: +5 (with Advantage if the target is Grappled by the mimic), reach 5 ft. 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing damage if the target is Grappled by the mimic—plus 4 (1d8) Acid damage.",
+        "desc": "Melee Attack Roll: +5 (with Advantage if the target is Grappled by the mimic), reach 5 ft. 7 (1d8 + 3) Piercing damage, or 12 (2d8 + 3) Piercing damage if the target is Grappled by the mimic, plus 4 (1d8) Acid damage.",
         "damage": [
           {
             "damage_type": {
@@ -22969,7 +22969,7 @@
     "actions": [
       {
         "name": "Antennae",
-        "desc": "The rust monster targets one nonmagical metal object—armor or a weapon—worn or carried by a creature within 5 feet of itself. Dexterity Saving Throw: DC 11, the creature with the object. Failure: The object takes a -1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches -5. The penalty can be removed by casting the Mending spell on the armor or weapon."
+        "desc": "The rust monster targets one nonmagical metal object, armor or a weapon, worn or carried by a creature within 5 feet of itself. Dexterity Saving Throw: DC 11, the creature with the object. Failure: The object takes a -1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches -5. The penalty can be removed by casting the Mending spell on the armor or weapon."
       },
       {
         "name": "Bite",
@@ -26494,7 +26494,7 @@
     "actions": [
       {
         "name": "Bites",
-        "desc": "Melee Attack Roll: +6, reach 5 ft. 8 (1d8 + 4) Piercing damage—or 6 (1d4 + 4) Piercing damage if the swarm is Bloodied—plus 10 (3d6) Poison damage.",
+        "desc": "Melee Attack Roll: +6, reach 5 ft. 8 (1d8 + 4) Piercing damage, or 6 (1d4 + 4) Piercing damage if the swarm is Bloodied, plus 10 (3d6) Poison damage.",
         "damage": [
           {
             "damage_type": {
