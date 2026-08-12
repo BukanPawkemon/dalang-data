@@ -1,0 +1,8 @@
+{
+  "srdVersion": "2024",
+  "source": "System Reference Document 5.2.1, Wizards of the Coast",
+  "sourceLicense": "CC-BY-4.0",
+  "compiledFrom": "Cross-checked against open5e, MIT-licensed for its own data structuring, resolved against the official SRD text where needed.",
+  "categories": ["conditions"],
+  "lastUpdated": "2026-08-12"
+}
