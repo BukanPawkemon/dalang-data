@@ -3,6 +3,7 @@
   "source": "System Reference Document 5.2.1, Wizards of the Coast",
   "sourceLicense": "CC-BY-4.0",
   "compiledFrom": "Cross-checked against open5e, MIT-licensed for its own data structuring, resolved against the official SRD text where needed.",
-  "categories": ["conditions", "weapon-properties"],
+  "categories": ["conditions", "weapon-properties", "monsters"],
+  "monstersNote": "Single-source compile from open5e, no second full 2024 dataset exists to cross-check against the way 2014 had. Damage types are extracted from the description text, not open5e's own structured field, which is confirmed unreliable on both editions. Not individually verified entry-by-entry the way Conditions and Weapon Properties were, validated only in aggregate (missing-field checks, damage-extraction coverage, spot checks). Treat with more caution than the other categories in this repo until it gets real spot-checking against the official text.",
   "lastUpdated": "2026-08-12"
 }
