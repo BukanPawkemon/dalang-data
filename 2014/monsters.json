@@ -6663,7 +6663,7 @@
       {
         "type": "spell",
         "value": 12,
-        "condition": "15 with mage armor"
+        "desc": "15 with mage armor"
       }
     ],
     "hit_points": 99,
@@ -14468,7 +14468,7 @@
       {
         "type": "spell",
         "value": 11,
-        "condition": "16 with barkskin"
+        "desc": "16 with barkskin"
       }
     ],
     "hit_points": 27,
@@ -14654,7 +14654,7 @@
       {
         "type": "spell",
         "value": 11,
-        "condition": "16 with barkskin"
+        "desc": "16 with barkskin"
       }
     ],
     "hit_points": 22,
@@ -26393,7 +26393,7 @@
       {
         "type": "spell",
         "value": 12,
-        "condition": "15 with mage armor"
+        "desc": "15 with mage armor"
       }
     ],
     "hit_points": 40,
